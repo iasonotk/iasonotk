@@ -4,7 +4,7 @@ I'm Iason, a programmer from Georgia.
 
 Explore my GitHub profile to discover a collection of my projects, collaborations, and contributions.
 
-Follow me on [Twitter](https://twitter.com/your-twitter-handle) or connect with me on the platforms listed below.
+Follow me on [Twitter](https://twitter.com/iasonotk) or connect with me on the platforms listed below.
 
 ## Connect with Me
 
