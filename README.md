@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**iasonotk/iasonotk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I'm Iason, a programmer from Georgia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore my GitHub profile to discover a collection of my projects, collaborations, and contributions.
+
+Follow me on [Twitter](https://twitter.com/iasonotk) or connect with me on the platforms listed below.
+
+## Connect with Me
+
+- GitHub: [iasonotk](https://github.com/iasonotk)
+- Twitter: [@iasonotk](https://twitter.com/iasonotk)
+- LinkedIn: [iasonotk](https://www.linkedin.com/in/iasonotk)
