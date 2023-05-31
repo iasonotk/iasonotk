@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hello
 
-I'm Iason, a programmer from Georgia.
+I am a dedicated programmer with a passion for technology and software development.
 
 Explore my GitHub profile to discover a collection of my projects, collaborations, and contributions.
 
-Follow me on [Twitter](https://twitter.com/iasonotk) or connect with me on the platforms listed below.
-
-## Connect with Me
+#### Connect with me
 
 - GitHub: [iasonotk](https://github.com/iasonotk)
 - Twitter: [@iasonotk](https://twitter.com/iasonotk)
