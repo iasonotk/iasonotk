@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# About Me
-
 I'm Iason, a programmer from Georgia.
 
 Explore my GitHub profile to discover a collection of my projects, collaborations, and contributions.
