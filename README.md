@@ -1,2 +1,1 @@
-
-I'm not a programmer
+I don't take programming seriously
